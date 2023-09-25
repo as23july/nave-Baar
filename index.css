@@ -15,6 +15,11 @@ body{
     min-height: 100vh;
     background: var(--clr);
 }
+
+
+
+
+
 .navigation{
     position: relative;
     width:100%;
@@ -127,3 +132,5 @@ body{
 .navigation ul li:nth-child(5).active ~ .indicator{
     transform: translateX(calc(70px * 4));
 }
+
+
